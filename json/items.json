@@ -1,0 +1,28 @@
+{
+    "menu": [
+      {
+        "icon": "far fa-chart-bar fa-2x",
+        "title": "Home",
+        "text": true,
+        "to": "/",
+        "color": "pink",
+        "text-color": "white"
+      },
+      {
+        "icon": "fa fa-gamepad fa-2x",
+        "title": "Feeds",
+        "text": true,
+        "to": "/feeds",
+        "color": "pink",
+        "text-color": "white"
+      },
+      {
+        "icon": "fa fa-newspaper fa-2x",
+        "title": "News",
+        "text": true,
+        "to": "/inspire",
+        "color": "pink",
+        "text-color": "white"
+      }
+    ]
+}
